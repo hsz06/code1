@@ -1,0 +1,6 @@
+# 项目排除路径
+/travel_data_manager_parent/travel_data_manager_common/target/
+/travel_data_manager_parent/travel_data_manager_dao/target/
+/travel_data_manager_parent/travel_data_manager_domain/target/
+/travel_data_manager_parent/travel_data_manager_service/target/
+/travel_data_manager_parent/travel_data_manager_web/target/
